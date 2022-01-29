@@ -1,0 +1,48 @@
+#boasvindas{
+    color: white;
+    font-family: monospace;
+    font-size: 17px; 
+}
+
+#meunomeprincipal {
+    color:#d6a499;
+    font-size: 45px;  
+            
+    
+}
+
+.list-1 {
+    text-decoration: none;
+    color: #f2e9e4;
+    font-size: 18px;
+}
+
+img {
+  border-radius: 100%;
+  border-style:none;
+
+  
+}
+
+
+#soueu {
+    color: #f2e9e4;
+    font-size: 17px;
+   
+}
+
+.title-style {
+    color: #c98373;
+    font-family:fantasy;
+    font-style: oblique;
+  
+}
+
+body {
+    background-color: #24242e;
+}
+
+#list {
+    color: #f2e9e4;
+    font-size: 18px;
+}
